@@ -20,8 +20,8 @@
 	</test>
 
 
-	<!--<test name="AccountsPage Test">
-				<parameter name="browser" value="firefox"></parameter>
+	<test name="AccountsPage Test">
+				<parameter name="browser" value="chrome"></parameter>
 
 		<classes>
 			<class name="com.qa.opencart.tests.AccountsPageTest" />
@@ -35,7 +35,7 @@
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoPageTest" />
 		</classes>
-	</test>-->
+	</test>
 	
 	<!--<test name="User Registration Page Test">
 			<parameter name="browser" value="edge"></parameter>
